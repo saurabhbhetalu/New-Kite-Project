@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-27T23:52:23 IST" name="Default suite" finished-at="2022-04-27T23:52:40 IST" duration-ms="16557">
+    <groups>
+    </groups>
+    <test started-at="2022-04-27T23:52:23 IST" name="Default test" finished-at="2022-04-27T23:52:40 IST" duration-ms="16557">
+      <class name="com.kite.TestClasses.TC03AddFundFunctionality">
+        <test-method is-config="true" signature="setupmethod()[pri:0, instance:com.kite.TestClasses.TC03AddFundFunctionality@29e495ff]" started-at="2022-04-27T23:52:24 IST" name="setupmethod" finished-at="2022-04-27T23:52:34 IST" duration-ms="10052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method signature="verifyAddFundFunctionality()[pri:0, instance:com.kite.TestClasses.TC03AddFundFunctionality@29e495ff]" started-at="2022-04-27T23:52:34 IST" name="verifyAddFundFunctionality" finished-at="2022-04-27T23:52:39 IST" duration-ms="5303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddFundFunctionality -->
+        <test-method is-config="true" signature="teardownMethod()[pri:0, instance:com.kite.TestClasses.TC03AddFundFunctionality@29e495ff]" started-at="2022-04-27T23:52:39 IST" name="teardownMethod" finished-at="2022-04-27T23:52:40 IST" duration-ms="1129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownMethod -->
+      </class> <!-- com.kite.TestClasses.TC03AddFundFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
