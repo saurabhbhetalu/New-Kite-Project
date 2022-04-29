@@ -35,9 +35,7 @@ public class BaseClass
 		driver.get("https://kite.zerodha.com/");
 		log.info("02.Enter the Saucedemo Website");
 		
-		driver.manage().window().maximize();
-		log.info("03.Maximize the Browser");
-		
+	
 		driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
 		
 		LoginPage lp = new LoginPage(driver);
@@ -52,6 +50,9 @@ public class BaseClass
 		
 		lp.pin();
 		log.info("pin Enter");
+		
+		driver.manage().window().maximize();
+		log.info("03.Maximize the Browser");
 		
 		lp.pincontinue();
 		log.info("click on continue");

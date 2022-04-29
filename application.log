@@ -1,69 +1,54 @@
-2022-04-27 00:58:05,537  INFO [main] MavenKiteProjectv1:36 - Broswer is open
-2022-04-27 00:58:18,947  INFO [main] MavenKiteProjectv1:39 - 02.Enter the Saucedemo Website
-2022-04-27 00:58:19,090  INFO [main] MavenKiteProjectv1:42 - 03.Maximize the Browser
-2022-04-27 00:58:19,296  INFO [main] MavenKiteProjectv1:48 - Enter the UserName
-2022-04-27 00:58:19,502  INFO [main] MavenKiteProjectv1:51 - Enter the Password
-2022-04-27 00:58:19,643  INFO [main] MavenKiteProjectv1:54 - Click the Login Button
-2022-04-27 00:58:20,233  INFO [main] MavenKiteProjectv1:57 - pin Enter
-2022-04-27 00:58:20,325  INFO [main] MavenKiteProjectv1:60 - click on continue
-2022-04-27 00:58:24,646  INFO [main] MavenKiteProjectv1:76 - closed the Browser
-2022-04-27 23:35:52,933  INFO [main] MavenKiteProjectv1:33 - Broswer is open
-2022-04-27 23:35:56,945  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
-2022-04-27 23:35:57,114  INFO [main] MavenKiteProjectv1:39 - 03.Maximize the Browser
-2022-04-27 23:35:57,472  INFO [main] MavenKiteProjectv1:45 - Enter the UserName
-2022-04-27 23:35:57,632  INFO [main] MavenKiteProjectv1:48 - Enter the Password
-2022-04-27 23:35:57,785  INFO [main] MavenKiteProjectv1:51 - Click the Login Button
-2022-04-27 23:36:40,225  INFO [main] MavenKiteProjectv1:33 - Broswer is open
-2022-04-27 23:36:45,331  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
-2022-04-27 23:36:45,479  INFO [main] MavenKiteProjectv1:39 - 03.Maximize the Browser
-2022-04-27 23:36:45,753  INFO [main] MavenKiteProjectv1:45 - Enter the UserName
-2022-04-27 23:36:45,988  INFO [main] MavenKiteProjectv1:48 - Enter the Password
-2022-04-27 23:36:46,134  INFO [main] MavenKiteProjectv1:51 - Click the Login Button
-2022-04-27 23:36:46,507  INFO [main] MavenKiteProjectv1:54 - pin Enter
-2022-04-27 23:36:46,607  INFO [main] MavenKiteProjectv1:57 - click on continue
-2022-04-27 23:36:48,962  INFO [main] MavenKiteProjectv1:16 - click on fund button
-2022-04-27 23:37:39,079  INFO [main] MavenKiteProjectv1:73 - closed the Browser
-2022-04-27 23:39:21,782  INFO [main] MavenKiteProjectv1:33 - Broswer is open
-2022-04-27 23:39:28,243  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
-2022-04-27 23:39:28,404  INFO [main] MavenKiteProjectv1:39 - 03.Maximize the Browser
-2022-04-27 23:39:28,686  INFO [main] MavenKiteProjectv1:45 - Enter the UserName
-2022-04-27 23:39:28,970  INFO [main] MavenKiteProjectv1:48 - Enter the Password
-2022-04-27 23:39:29,122  INFO [main] MavenKiteProjectv1:51 - Click the Login Button
-2022-04-27 23:39:29,562  INFO [main] MavenKiteProjectv1:54 - pin Enter
-2022-04-27 23:39:29,667  INFO [main] MavenKiteProjectv1:57 - click on continue
-2022-04-27 23:39:32,453  INFO [main] MavenKiteProjectv1:16 - click on fund button
-2022-04-27 23:39:32,879  INFO [main] MavenKiteProjectv1:18 - click on add fund button
-2022-04-27 23:39:32,960  INFO [main] MavenKiteProjectv1:73 - closed the Browser
-2022-04-27 23:40:40,538  INFO [main] MavenKiteProjectv1:33 - Broswer is open
-2022-04-27 23:40:46,342  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
-2022-04-27 23:40:46,567  INFO [main] MavenKiteProjectv1:39 - 03.Maximize the Browser
-2022-04-27 23:40:46,899  INFO [main] MavenKiteProjectv1:45 - Enter the UserName
-2022-04-27 23:40:47,240  INFO [main] MavenKiteProjectv1:48 - Enter the Password
-2022-04-27 23:40:47,396  INFO [main] MavenKiteProjectv1:51 - Click the Login Button
-2022-04-27 23:40:47,816  INFO [main] MavenKiteProjectv1:54 - pin Enter
-2022-04-27 23:40:47,998  INFO [main] MavenKiteProjectv1:57 - click on continue
-2022-04-27 23:40:51,273  INFO [main] MavenKiteProjectv1:16 - click on fund button
-2022-04-27 23:40:51,591  INFO [main] MavenKiteProjectv1:18 - click on add fund button
-2022-04-27 23:40:51,664  INFO [main] MavenKiteProjectv1:73 - closed the Browser
-2022-04-27 23:46:36,065  INFO [main] MavenKiteProjectv1:33 - Broswer is open
-2022-04-27 23:46:46,238  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
-2022-04-27 23:46:46,385  INFO [main] MavenKiteProjectv1:39 - 03.Maximize the Browser
-2022-04-27 23:46:46,808  INFO [main] MavenKiteProjectv1:45 - Enter the UserName
-2022-04-27 23:46:47,061  INFO [main] MavenKiteProjectv1:48 - Enter the Password
-2022-04-27 23:46:47,191  INFO [main] MavenKiteProjectv1:51 - Click the Login Button
-2022-04-27 23:46:47,951  INFO [main] MavenKiteProjectv1:54 - pin Enter
-2022-04-27 23:46:48,052  INFO [main] MavenKiteProjectv1:57 - click on continue
-2022-04-27 23:46:51,301  INFO [main] MavenKiteProjectv1:19 - click on fund button
-2022-04-27 23:46:51,999  INFO [main] MavenKiteProjectv1:21 - click on add fund button
-2022-04-27 23:47:06,019  INFO [main] MavenKiteProjectv1:73 - closed the Browser
-2022-04-27 23:52:28,634  INFO [main] MavenKiteProjectv1:33 - Broswer is open
-2022-04-27 23:52:32,815  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
-2022-04-27 23:52:32,970  INFO [main] MavenKiteProjectv1:39 - 03.Maximize the Browser
-2022-04-27 23:52:33,206  INFO [main] MavenKiteProjectv1:45 - Enter the UserName
-2022-04-27 23:52:33,427  INFO [main] MavenKiteProjectv1:48 - Enter the Password
-2022-04-27 23:52:33,544  INFO [main] MavenKiteProjectv1:51 - Click the Login Button
-2022-04-27 23:52:33,963  INFO [main] MavenKiteProjectv1:54 - pin Enter
-2022-04-27 23:52:34,095  INFO [main] MavenKiteProjectv1:57 - click on continue
-2022-04-27 23:52:36,652  INFO [main] MavenKiteProjectv1:19 - click on fund button
-2022-04-27 23:52:37,089  INFO [main] MavenKiteProjectv1:21 - click on add fund button
-2022-04-27 23:52:40,539  INFO [main] MavenKiteProjectv1:66 - closed the Browser
+2022-04-30 00:33:11,446  INFO [main] MavenKiteProjectv1:33 - Broswer is open
+2022-04-30 00:33:18,199  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
+2022-04-30 00:33:18,406  INFO [main] MavenKiteProjectv1:43 - Enter the UserName
+2022-04-30 00:33:40,173  INFO [main] MavenKiteProjectv1:46 - Enter the Password
+2022-04-30 00:33:40,279  INFO [main] MavenKiteProjectv1:49 - Click the Login Button
+2022-04-30 00:33:46,300  INFO [main] MavenKiteProjectv1:52 - pin Enter
+2022-04-30 00:33:46,620  INFO [main] MavenKiteProjectv1:55 - 03.Maximize the Browser
+2022-04-30 00:33:46,712  INFO [main] MavenKiteProjectv1:58 - click on continue
+2022-04-30 00:33:50,254  INFO [main] MavenKiteProjectv1:19 - click on fund button
+2022-04-30 00:33:50,587  INFO [main] MavenKiteProjectv1:21 - click on add fund button
+2022-04-30 00:33:55,804  INFO [main] MavenKiteProjectv1:67 - closed the Browser
+2022-04-30 00:34:00,413  INFO [main] MavenKiteProjectv1:33 - Broswer is open
+2022-04-30 00:34:04,040  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
+2022-04-30 00:34:04,200  INFO [main] MavenKiteProjectv1:43 - Enter the UserName
+2022-04-30 00:34:14,487  INFO [main] MavenKiteProjectv1:46 - Enter the Password
+2022-04-30 00:34:14,589  INFO [main] MavenKiteProjectv1:49 - Click the Login Button
+2022-04-30 00:34:19,812  INFO [main] MavenKiteProjectv1:52 - pin Enter
+2022-04-30 00:34:20,138  INFO [main] MavenKiteProjectv1:55 - 03.Maximize the Browser
+2022-04-30 00:34:20,230  INFO [main] MavenKiteProjectv1:58 - click on continue
+2022-04-30 00:34:23,363  INFO [main] MavenKiteProjectv1:18 - test case TX01 is executed
+2022-04-30 00:34:23,778  INFO [main] MavenKiteProjectv1:67 - closed the Browser
+2022-04-30 00:34:27,910  INFO [main] MavenKiteProjectv1:33 - Broswer is open
+2022-04-30 00:34:53,131  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
+2022-04-30 00:34:53,293  INFO [main] MavenKiteProjectv1:43 - Enter the UserName
+2022-04-30 00:35:05,309  INFO [main] MavenKiteProjectv1:46 - Enter the Password
+2022-04-30 00:35:05,444  INFO [main] MavenKiteProjectv1:49 - Click the Login Button
+2022-04-30 00:35:10,108  INFO [main] MavenKiteProjectv1:52 - pin Enter
+2022-04-30 00:35:10,430  INFO [main] MavenKiteProjectv1:55 - 03.Maximize the Browser
+2022-04-30 00:35:10,532  INFO [main] MavenKiteProjectv1:58 - click on continue
+2022-04-30 00:35:13,805  INFO [main] MavenKiteProjectv1:15 - click on hcl stock
+2022-04-30 00:35:14,293  INFO [main] MavenKiteProjectv1:18 - click on sell hcl stock
+2022-04-30 00:35:14,848  INFO [main] MavenKiteProjectv1:21 - click on sell button
+2022-04-30 00:35:16,278  INFO [main] MavenKiteProjectv1:67 - closed the Browser
+2022-04-30 00:35:19,345  INFO [main] MavenKiteProjectv1:33 - Broswer is open
+2022-04-30 00:35:25,349  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
+2022-04-30 00:35:25,525  INFO [main] MavenKiteProjectv1:43 - Enter the UserName
+2022-04-30 00:35:34,847  INFO [main] MavenKiteProjectv1:46 - Enter the Password
+2022-04-30 00:35:34,949  INFO [main] MavenKiteProjectv1:49 - Click the Login Button
+2022-04-30 00:35:39,883  INFO [main] MavenKiteProjectv1:52 - pin Enter
+2022-04-30 00:35:40,229  INFO [main] MavenKiteProjectv1:55 - 03.Maximize the Browser
+2022-04-30 00:35:40,387  INFO [main] MavenKiteProjectv1:58 - click on continue
+2022-04-30 00:35:42,941  INFO [main] MavenKiteProjectv1:16 - click on hcl stock
+2022-04-30 00:35:43,194  INFO [main] MavenKiteProjectv1:19 - click on buy  Button
+2022-04-30 00:35:43,407  INFO [main] MavenKiteProjectv1:22 - click on BUY
+2022-04-30 00:35:44,505  INFO [main] MavenKiteProjectv1:67 - closed the Browser
+2022-04-30 00:35:46,391  INFO [main] MavenKiteProjectv1:33 - Broswer is open
+2022-04-30 00:35:52,676  INFO [main] MavenKiteProjectv1:36 - 02.Enter the Saucedemo Website
+2022-04-30 00:35:52,827  INFO [main] MavenKiteProjectv1:43 - Enter the UserName
+2022-04-30 00:36:03,196  INFO [main] MavenKiteProjectv1:46 - Enter the Password
+2022-04-30 00:36:03,297  INFO [main] MavenKiteProjectv1:49 - Click the Login Button
+2022-04-30 00:36:08,372  INFO [main] MavenKiteProjectv1:52 - pin Enter
+2022-04-30 00:36:08,673  INFO [main] MavenKiteProjectv1:55 - 03.Maximize the Browser
+2022-04-30 00:36:08,762  INFO [main] MavenKiteProjectv1:58 - click on continue
+2022-04-30 00:36:13,858  INFO [main] MavenKiteProjectv1:67 - closed the Browser

@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.kite.TestClasses.TC03AddFundFunctionality">
+      <class name="com.kite.TestClasses.TC01LoginFunctionality">
         <methods>
           <include name="setupmethod"/>
           <include name="teardownMethod"/>
-          <include name="verifyAddFundFunctionality"/>
+          <include name="verifyloginFunctionality"/>
         </methods>
-      </class> <!-- com.kite.TestClasses.TC03AddFundFunctionality -->
+      </class> <!-- com.kite.TestClasses.TC01LoginFunctionality -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

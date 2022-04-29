@@ -7,9 +7,10 @@ import org.testng.annotations.Test;
 public class TC01LoginFunctionality extends BaseClass
 {
 		@Test
-		public void verifyloginFunctionality()
+		public void verifyloginFunctionality() throws InterruptedException
 		{
-			
+		Thread.sleep(3000);
+		
 		String actualurl = "https://kite.zerodha.com/dashboard";
 		String expectedurl = driver.getCurrentUrl();
 		

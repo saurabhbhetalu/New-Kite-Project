@@ -1,5 +1,7 @@
 package com.kite.POMClasses;
 
+import java.util.Scanner;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -7,7 +9,9 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage 
 {
+	
 	private WebDriver driver;
+	private Scanner in;
 	
 	@FindBy(xpath="//input[@id='userid']")
 	private WebElement username; 
@@ -32,6 +36,8 @@ public class LoginPage
 	{
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+		
+		in = new Scanner(System.in);  
 	}
 	
 	
@@ -42,12 +48,13 @@ public class LoginPage
 	
 	public void password()
 	{
-		password.sendKeys("");
+		
+		password.sendKeys(in.nextLine());
 	}
 	
 	public void pin()
 	{
-		pin.sendKeys("");
+		pin.sendKeys(in.nextLine());
 	}
 	
 	public void pincontinue()
